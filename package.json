@@ -1,0 +1,23 @@
+{
+  "name": "custom-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Kumar <manish32.nith@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^4.0.1",
+    "@angular/compiler": "^4.0.1",
+    "@angular/core": "^4.0.1",
+    "@angular/forms": "^4.0.1",
+    "@angular/http": "^4.0.1",
+    "@angular/platform-browser": "^4.0.1",
+    "@angular/platform-browser-dynamic": "4.0.1",
+    "@angular/router": "^4.0.1",
+    "rxjs": "^5.2.0",
+    "zone.js": "^0.8.5"
+  }
+}
